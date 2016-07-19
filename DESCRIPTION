@@ -1,0 +1,9 @@
+Package: Rcancer1stpkg
+Type: Package
+Title:hunts a certain data package for hypothesis generation.
+Version: 0.1.0
+Author: daniel.markowitz@swedish.org
+Maintainer: daniel.markowitz@swedish.org
+Description: TBA
+License: CC0
+LazyData: TRUE
